@@ -1,0 +1,4 @@
+- Image Preview by Kiss Tamás
+- Color Highlight by Sergii Naumov
+- Auto Rename Tag by Jun Han
+- Live Server by Ritwick Dey
